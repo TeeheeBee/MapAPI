@@ -1,0 +1,136 @@
+{
+  "Servers": [
+    {
+      "Id": 0,
+      "Name": "Wiki Media",
+      "Type": -1,
+      "Link": "https://maps.wikimedia.org/osm-intl/{0}/{1}/{2}.png",
+      "ServerLoad": 4,
+      "AppID": "F9VSVW1GjhHP7TUVMcqf",
+      "AppCode": "CI1lzWESsMs7w6RYwKEPFQ",
+      "HitsStartDate": "2019-10-19T23:18:18",
+      "Hits": 168862,
+      "DateToResetHits": "2019-11-19T23:18:18"
+    },
+    {
+      "Id": 1,
+      "Name": "Here Hybrid",
+      "Type": 2500,
+      "Link": "https://{5}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{0}/{1}/{2}/256/png8?app_id={3}&app_code={4}",
+      "ServerLoad": 4,
+      "AppID": "F9VSVW1GjhHP7TUVMcqf",
+      "AppCode": "CI1lzWESsMs7w6RYwKEPFQ",
+      "HitsStartDate": "2019-10-19T23:18:18",
+      "Hits": 1018,
+      "DateToResetHits": "2019-11-19T23:18:18"
+    },
+    {
+      "Id": 2,
+      "Name": "Here Satellite",
+      "Type": 2500,
+      "Link": "https://{5}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/satellite.day/{0}/{1}/{2}/256/png8?app_id={3}&app_code={4}",
+      "ServerLoad": 4,
+      "AppID": "F9VSVW1GjhHP7TUVMcqf",
+      "AppCode": "CI1lzWESsMs7w6RYwKEPFQ",
+      "HitsStartDate": "2019-10-19T23:18:18",
+      "Hits": 1018,
+      "DateToResetHits": "2019-11-19T23:18:18"
+    },
+    {
+      "Id": 3,
+      "Name": "Here Terrain",
+      "Type": 2500,
+      "Link": "https://{5}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{0}/{1}/{2}/256/png8?app_id={3}&app_code={4}",
+      "ServerLoad": 4,
+      "AppID": "F9VSVW1GjhHP7TUVMcqf",
+      "AppCode": "CI1lzWESsMs7w6RYwKEPFQ",
+      "HitsStartDate": "2019-10-19T23:18:18",
+      "Hits": 30,
+      "DateToResetHits": "2019-11-19T23:18:18"
+    },
+    {
+      "Id": 4,
+      "Name": "WMF labs osm",
+      "Type": -1,
+      "Link": "http://tiles.wmflabs.org/osm-no-labels/{0}/{1}/{2}.png",
+      "ServerLoad": 0,
+      "AppID": "",
+      "AppCode": "",
+      "HitsStartDate": "2019-10-19T23:18:18",
+      "Hits": 0,
+      "DateToResetHits": "2019-11-19T23:18:18"
+    },
+    {
+      "Id": 5,
+      "Name": "WMF labs hillshading",
+      "Type": -1,
+      "Link": "http://tiles.wmflabs.org/hillshading/{0}/{1}/{2}.png",
+      "ServerLoad": 0,
+      "AppID": "",
+      "AppCode": "",
+      "HitsStartDate": "2019-10-19T23:18:18",
+      "Hits": 60,
+      "DateToResetHits": "2019-11-19T23:18:18"
+    },
+    {
+      "Id": 6,
+      "Name": "Stamen Watercolors",
+      "Type": -1,
+      "Link": "http://c.tile.stamen.com/watercolor/{0}/{1}/{2}.jpg",
+      "ServerLoad": 0,
+      "AppID": "",
+      "AppCode": "",
+      "HitsStartDate": "2019-10-19T23:18:18",
+      "Hits": 1062,
+      "DateToResetHits": "2019-11-19T23:18:18"
+    },
+    {
+      "Id": 7,
+      "Name": "WMF labs hikebike",
+      "Type": -1,
+      "Link": "http://tiles.wmflabs.org/hikebike/{0}/{1}/{2}.png",
+      "ServerLoad": 0,
+      "AppID": "",
+      "AppCode": "",
+      "HitsStartDate": "2019-10-19T23:18:18",
+      "Hits": 3412,
+      "DateToResetHits": "2019-11-19T23:18:18"
+    },
+    {
+      "Id": 8,
+      "Name": "ThunderForest Cycle",
+      "Type": -1,
+      "Link": "http://tile.thunderforest.com/cycle/{0}/{1}/{2}.png",
+      "ServerLoad": 0,
+      "AppID": "",
+      "AppCode": "",
+      "HitsStartDate": "2019-10-19T23:18:18",
+      "Hits": 1276,
+      "DateToResetHits": "2019-11-19T23:18:18"
+    },
+    {
+      "Id": 9,
+      "Name": "ThunderForest Landscape",
+      "Type": -1,
+      "Link": "http://tile.thunderforest.com/landscape/{0}/{1}/{2}.png",
+      "ServerLoad": 0,
+      "AppID": "",
+      "AppCode": "",
+      "HitsStartDate": "2019-10-19T23:18:18",
+      "Hits": 141,
+      "DateToResetHits": "2019-11-19T23:18:18"
+    },
+    {
+      "Id": 10,
+      "Name": "ThunderForest Outdoors",
+      "Type": -1,
+      "Link": "http://tile.thunderforest.com/outdoors/{0}/{1}/{2}.png",
+      "ServerLoad": 0,
+      "AppID": "",
+      "AppCode": "",
+      "HitsStartDate": "2019-10-19T23:18:18",
+      "Hits": 193,
+      "DateToResetHits": "2019-11-19T23:18:18"
+    }
+  ]
+}

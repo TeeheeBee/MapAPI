@@ -1,0 +1,24 @@
+{
+  "Servers": [
+    {
+      "Id": 1,
+      "Name": "2",
+      "Link": "3",
+      "AppID": "4",
+      "AppCode": "4",
+      "HitsStartDate": "2019-10-19T20:28:26.9393006+02:00",
+      "Hits": 1,
+      "DateToResetHits": "2019-11-19T20:28:26.9403002+01:00"
+    },
+    {
+      "Id": 1,
+      "Name": "2",
+      "Link": "3",
+      "AppID": "4",
+      "AppCode": "4",
+      "HitsStartDate": "2019-10-19T20:28:26.9403002+02:00",
+      "Hits": 1,
+      "DateToResetHits": "2019-11-19T20:28:26.9403002+01:00"
+    }
+  ]
+}
