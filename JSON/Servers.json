@@ -6,8 +6,8 @@
       "Type": -1,
       "Link": "https://maps.wikimedia.org/osm-intl/{0}/{1}/{2}.png",
       "ServerLoad": 4,
-      "AppID": "F9VSVW1GjhHP7TUVMcqf",
-      "AppCode": "CI1lzWESsMs7w6RYwKEPFQ",
+      "AppID": "",
+      "AppCode": "",
       "HitsStartDate": "2019-10-19T23:18:18",
       "Hits": 172765,
       "DateToResetHits": "2019-11-19T23:18:18"
@@ -18,8 +18,8 @@
       "Type": 2500,
       "Link": "https://{5}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{0}/{1}/{2}/256/png8?app_id={3}&app_code={4}",
       "ServerLoad": 4,
-      "AppID": "F9VSVW1GjhHP7TUVMcqf",
-      "AppCode": "CI1lzWESsMs7w6RYwKEPFQ",
+      "AppID": "",
+      "AppCode": "",
       "HitsStartDate": "2019-10-19T23:18:18",
       "Hits": 1535,
       "DateToResetHits": "2019-11-19T23:18:18"
@@ -30,8 +30,8 @@
       "Type": 2500,
       "Link": "https://{5}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/satellite.day/{0}/{1}/{2}/256/png8?app_id={3}&app_code={4}",
       "ServerLoad": 4,
-      "AppID": "F9VSVW1GjhHP7TUVMcqf",
-      "AppCode": "CI1lzWESsMs7w6RYwKEPFQ",
+      "AppID": "",
+      "AppCode": "",
       "HitsStartDate": "2019-10-19T23:18:18",
       "Hits": 1024,
       "DateToResetHits": "2019-11-19T23:18:18"
@@ -42,8 +42,8 @@
       "Type": 2500,
       "Link": "https://{5}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{0}/{1}/{2}/256/png8?app_id={3}&app_code={4}",
       "ServerLoad": 4,
-      "AppID": "F9VSVW1GjhHP7TUVMcqf",
-      "AppCode": "CI1lzWESsMs7w6RYwKEPFQ",
+      "AppID": "",
+      "AppCode": "",
       "HitsStartDate": "2019-10-19T23:18:18",
       "Hits": 30,
       "DateToResetHits": "2019-11-19T23:18:18"
